@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these programs or data, please cite the paper."
-title: "Travelling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability"
+title: "Traveling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability"
 type: software
 authors:
   - given-names: "Chase"
@@ -12,7 +12,7 @@ repository-code: "https://github.com/ChaseHendrick/nf-pulse"
 doi: "10.5281/zenodo.22998376"
 preferred-citation:
   type: article
-  title: "Travelling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability"
+  title: "Traveling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability"
   authors:
     - given-names: "Chase"
       family-names: "Hendrick"
