@@ -1,0 +1,14 @@
+{
+  "title": "Travelling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>Neural field equations describe the activity of a sheet of cortex as a continuum, and their travelling pulses model waves of activity such as those seen in disinhibited cortical slices. Pinto and Ermentrout (2001) analysed their model mainly with a Heaviside firing rate. For a Heaviside rate, Pinto, Jackson and Wayne (2005) prove pulses without assuming slow recovery. For a smooth rate, the existence results we found either require the recovery rate eps to be sufficiently small (Faye and Scheel; Dyson, arXiv:1810.05142; for synaptic depression, Faye 2013 and Hastings 2017) or are conditional: Burlakov, Oleynik and Ponosov (2025) prove travelling waves at a fixed recovery rate for continuous rates close to a Heaviside, provided a Heaviside pulse satisfies conditions verified for no example, and Hastings's Theorem 2 rests on properties of two solutions (one of the fast system, one of the full system) checked only numerically. We give computer-assisted proofs, in ball arithmetic, at explicit parameters, with eps not small for the Pinto-Ermentrout field. For the logistic firing rate with gain 20 and threshold 1/4, no recovery decay and the kernel e^(-|x|)/2 there is a fast pulse at eps = 1/10, with speed in an interval of width 10^-25 about 1.10274770973415924914786..., and a slow pulse; a fast pulse exists for every eps in [0.08, 0.13693] and at eps = 3/20, where it coexists with a slow pulse. A fast pulse also exists for the sigmoid of Pinto and Ermentrout's Fig. 5 at eps = 3/20 (a saddle-focus at rest) and in Faye's model with synaptic depression at his other parameters for eps = 1/100, 1/50 and 1/20. For the fast pulse at eps = 1/10 we prove spectral stability for every pulse of a nonempty class defined by a speed bracket of width 10^-58 and a condition on the profile. Nonlinear stability is not proved.</p><p>This record holds the manuscript, a preprint that has not been peer reviewed, with the programs that check its results and their output. README.md describes each program and how to run it.</p>",
+  "creators": [
+    {
+      "name": "Hendrick, Chase",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0002-9754-6087"
+    }
+  ],
+  "license": "Apache-2.0"
+}
