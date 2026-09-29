@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/nf-pulse"
-doi: "10.5281/zenodo.23028520"
+doi: "10.5281/zenodo.23047061"
 preferred-citation:
   type: article
   title: "Traveling Pulses in a Neural Field with a Smooth Firing Rate: Computer-Assisted Existence and Spectral Stability"
@@ -20,4 +20,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0002-9754-6087"
   year: 2026
   url: "https://github.com/ChaseHendrick/nf-pulse"
-  doi: "10.5281/zenodo.23028520"
+  doi: "10.5281/zenodo.23047061"
