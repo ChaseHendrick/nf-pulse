@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/nf-pulse"
+version: "1.0.5"
 doi: "10.5281/zenodo.23050600"
 preferred-citation:
   type: article
